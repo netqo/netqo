@@ -4,6 +4,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/nullnullnullnullnullnullnullnullnullnul/nullnullnullnullnullnullnullnullnullnul/output/github-snake.svg" />
 </picture>
 
-
-![nullnullnullnullnull](https://count.getloli.com/@nullnullnullnullnull)
-
+<p align="center">
+  <img src="https://count.getloli.com/@nullnullnullnullnull" alt="nullnullnullnullnull" />
+</p>
