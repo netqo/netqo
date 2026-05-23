@@ -22,12 +22,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nullnullnullnullnullnullnullnullnullnul/nullnullnullnullnullnullnullnullnullnul/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nullnullnullnullnullnullnullnullnullnul/nullnullnullnullnullnullnullnullnullnul/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nullnullnullnullnullnullnullnullnullnul/nullnullnullnullnullnullnullnullnullnul/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/netqo/netqo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/netqo/netqo/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/netqo/netqo/output/github-snake.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@nullnullnullnullnull" alt="nullnullnullnullnull" />
+  <img src="https://count.getloli.com/@netqo" alt="netqo" />
 </p>
