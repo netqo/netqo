@@ -9,7 +9,7 @@
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=4">
     </td>
     <td valign="top" align=center><strong>Languages</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=python,go,rust,cpp,kotlin,bash,java,typescript&perline=4">
+      <img src="https://skillicons.dev/icons?i=python,go,rust,cpp,kotlin,bash,java,typescript,ocaml&perline=4">
     </td>
     <td valign="top" align=center><strong>Tooling & OS</strong><br><br>
       <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,prometheus,grafana,nestjs,bun,nix,sentry&perline=4">
